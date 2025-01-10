@@ -65,4 +65,4 @@ Bing Creator Image：
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨ Criado por [Roby](https://github.com/RobyKy)
