@@ -13,7 +13,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 seguem abaixo.
 Obs: Todas os recursos criado foram pelos programas da Microsoft (Copilot, PowerPoint 365, Gerador de Imagens Bing)
 
-<a href="https://github.com/RobyKy/criando-ebook-com-IA/blob/main/output/Projeto%20EBOOK.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/RobyKy/criando-ebook-com-IA/blob/main/output/Projeto%20EBOOK%20final.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
