@@ -11,14 +11,16 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
+Obs: Todas os recursos criado foram pelos programas da Microsoft (Copilot, PowerPoint 365, Gerador de Imagens Bing)
 
 <a href="https://github.com/RobyKy/criando-ebook-com-IA/blob/main/output/Projeto%20EBOOK.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilot](https://copilot.microsoft.com/) 
+- [Bing Creator Image](https://www.bing.com/images/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Removebg] (https://www.remove.bg/pt-br/upload)
 
 ## 🧠 Prompts
 
@@ -27,20 +29,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título para uma capa de livro para ebook relacionado a criaçao de um jogo em poucos passos com python e em pixel art, cite 3 sugestões.                                                        |
+| conteúdo | Faça um texto para ebook , com foco de ensinando como criar um jogo em 8 bit para o console nintendo, listando os principais seletores na linguagem escolhida com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico e separe em capítulos |
 
 
-Midjourney：
+Bing Creator Image：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Gere uma imagem da logo da linguagem de código Python em pixel art e com um controle de videogame |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via Copilot
+- Imagens geradas via Bing Creator Image
 
 ## 📚 Materiais
 
