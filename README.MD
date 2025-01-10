@@ -20,7 +20,7 @@ Obs: Todas os recursos criado foram pelos programas da Microsoft (Copilot, Power
 - [Copilot](https://copilot.microsoft.com/) 
 - [Bing Creator Image](https://www.bing.com/images/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-- [Removebg] (https://www.remove.bg/pt-br/upload)
+- [Removebg](https://www.remove.bg/pt-br/upload)
 
 ## 🧠 Prompts
 
