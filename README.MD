@@ -53,7 +53,7 @@ Bing Creator Image：
       width=80 
       src="https://github.com/RobyKy/criando-ebook-com-IA/blob/main/.github/assets/GridArt_20241027_174310737%20(1).jpg"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRoberto Meneses<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/RobyKy">
     GitHub</a>&nbsp;|&nbsp;
