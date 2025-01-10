@@ -51,7 +51,7 @@ Bing Creator Image：
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/RobyKy/criando-ebook-com-IA/blob/main/.github/assets/GridArt_20241027_174310737%20(1).jpg"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
