@@ -57,11 +57,8 @@ Bing Creator Image：
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/roberto-da-silva-meneses-7abb0a253">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/roberto-da-silva-meneses-7abb0a253/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
