@@ -65,4 +65,4 @@ Bing Creator Image：
 
 ---
 
-⌨ Criado por [Roby](https://github.com/RobyKy)
+⌨ Criado por [Robyky](https://github.com/RobyKy)
